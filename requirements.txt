@@ -1,0 +1,5 @@
+streamlit-extras
+streamlit-webrtc
+streamlit-image-coordinates
+opencv-python-headless
+scikit-learn
