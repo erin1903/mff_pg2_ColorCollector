@@ -23,5 +23,3 @@ with col2:
         switch_page("Color Palette")
     if color_detector:
         switch_page("\u200d color detector")
-
-st.write("dflkjndlfkndlkndlkbdb")
